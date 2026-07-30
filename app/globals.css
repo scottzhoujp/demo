@@ -281,7 +281,7 @@ a {
   gap: 24px;
 }
 
-.dish-card:nth-child(2) {
+.dish-card:nth-child(3n + 2) {
   margin-top: 46px;
 }
 
@@ -519,7 +519,7 @@ footer {
     gap: 48px;
   }
 
-  .dish-card:nth-child(2) {
+  .dish-card:nth-child(3n + 2) {
     margin-top: 0;
   }
 

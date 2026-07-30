@@ -23,6 +23,86 @@ const dishes = [
     image:
       "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1200&q=85",
   },
+  {
+    number: "04",
+    name: "花雕熟醉蟹",
+    description: "三年陈花雕 · 当季膏蟹",
+    price: "¥ 198",
+    image:
+      "https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    number: "05",
+    name: "青梅汁慢炖小排",
+    description: "绍兴青梅 · 黑毛猪肋排",
+    price: "¥ 108",
+    image:
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    number: "06",
+    name: "山笋腌笃鲜",
+    description: "临安春笋 · 金华火腿",
+    price: "¥ 98",
+    image:
+      "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    number: "07",
+    name: "藤椒炙烤和牛",
+    description: "谷饲和牛 · 汉源鲜藤椒",
+    price: "¥ 238",
+    image:
+      "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    number: "08",
+    name: "蟹粉豆腐",
+    description: "手拆湖蟹粉 · 盐卤嫩豆腐",
+    price: "¥ 118",
+    image:
+      "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    number: "09",
+    name: "荷香糯米鸡",
+    description: "新荷叶 · 崇明散养鸡",
+    price: "¥ 78",
+    image:
+      "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    number: "10",
+    name: "酒酿清蒸鲥鱼",
+    description: "古法酒酿 · 新鲜鲥鱼",
+    price: "¥ 268",
+    image:
+      "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    number: "11",
+    name: "龙井虾仁",
+    description: "明前龙井 · 钱塘河虾仁",
+    price: "¥ 138",
+    image:
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    number: "12",
+    name: "桂花酒酿圆子",
+    description: "满觉陇桂花 · 手作糯米圆子",
+    price: "¥ 48",
+    image:
+      "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=1200&q=85",
+  },
+  {
+    number: "13",
+    name: "陈皮红豆沙",
+    description: "十年陈皮 · 崇明大红袍赤豆",
+    price: "¥ 42",
+    image:
+      "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=85",
+  },
 ];
 
 export default function Home() {
